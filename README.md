@@ -1,5 +1,3 @@
-# Natural-Language-Processing
-
 <p align="center">
   <a href="https://shnaton.huji.ac.il/index.php/NewSyl/67658/2/2024/">
     <img src="https://github.com/neriabd/neriabd/blob/main/logos/Nlp.png" alt="NLP Icon">
