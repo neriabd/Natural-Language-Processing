@@ -12,5 +12,5 @@
 <br> Implementation of several versions of a Hidden Markov Model (HMM) part of Speech (POS) tagger.
 <br><br>
 -  → [**Assignment 3**](https://github.com/neriabd/Natural-Language-Processing/tree/main/Assignment%203)
-<br> sentiment analysis program using a one-hot log-linear model, a word2vec log-linear model, and an LSTM model.
+<br> Sentiment analysis program using a one-hot log-linear model, a word2vec log-linear model, and an LSTM model.
 <br><br>
